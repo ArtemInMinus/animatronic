@@ -1,0 +1,5 @@
+0 freddy
+1 chica
+2 bonny
+3 foxy
+4 golden_freddy
