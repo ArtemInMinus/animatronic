@@ -7,3 +7,7 @@ Hello! Have you been arguing with your friends for a long time which animatronic
 Follow the simple instructions!
 
 Download the archive, unzip it and run main.py in visual studio code!
+
+![Снимок экрана 2023-10-29 171630](https://github.com/ArtemInMinus/animatronic/assets/110528679/dfec8917-6d2d-4683-b33d-68c25ec9af9c)
+
+![Снимок экрана 2023-10-29 171708](https://github.com/ArtemInMinus/animatronic/assets/110528679/a906e752-8576-4745-aec7-66cd95fd54b5)
