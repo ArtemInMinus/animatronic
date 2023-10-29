@@ -13,3 +13,10 @@ Download the archive, unzip it and run main.py in visual studio code!
 ![Снимок экрана 2023-10-29 171708](https://github.com/ArtemInMinus/animatronic/assets/110528679/a906e752-8576-4745-aec7-66cd95fd54b5)
 
 OK, after that, go to the settings.py file and replace your_token with your bot’s token.
+
+
+![Снимок экрана 2023-10-29 172034](https://github.com/ArtemInMinus/animatronic/assets/110528679/f09160b8-9a7c-4a8c-aabc-95bd7a3b1fe3)
+
+![Снимок экрана 2023-10-29 172058](https://github.com/ArtemInMinus/animatronic/assets/110528679/213418df-1507-4959-b670-613a9bcf5ec2)
+
+We can run main.py!
